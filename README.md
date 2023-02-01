@@ -17,3 +17,9 @@ lua_setfield((lua_State*)rL, LUA_GLOBALSINDEX, "checked_on_teleport");
 ```
 
 You must make an auto script launcher, and execute the script that is in the `launch.lua!`
+
+# In Short Words
+
+Pretend your playing an obby, when you complete it, there will be more game suggestions, so you teleport and it takes you to a new game.
+
+Now, the DLL broke. It completly died. When you add this, it won't break easily!
